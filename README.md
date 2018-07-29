@@ -1,12 +1,26 @@
-# Space Invaders 101
+# SpaceInvader
 
->객체지향 프로그래밍 프로젝트 코드개선
+* 2017년 객체지향 프로그래밍
+* 미사일을 쏴서 외계인을 죽이는 슈팅게임
+* 비행기 선택, 랭킹, 아이템, 목숨 기능
 
-BEFORE
-![before](https://user-images.githubusercontent.com/26926312/33845088-9fef769c-dee5-11e7-8036-fc366ec7c582.png)
 
-AFTER
-![after](https://user-images.githubusercontent.com/26926312/33845093-a211187c-dee5-11e7-8260-cb4eca5fd147.png)
- 
+## 개발환경
+* Mysql
+* Java Swing
+
+## ScreenShot
+
+* before
+![before](https://user-images.githubusercontent.com/26926312/43363329-7732fbae-933d-11e8-9b96-5f9954022994.png)
+
+* after
+
+![after](https://user-images.githubusercontent.com/26926312/43363332-8b4c190e-933d-11e8-9445-8a9785b79e82.png)
+
+
+
+
+
 
 
