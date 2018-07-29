@@ -14,6 +14,7 @@
 
 ![before](https://user-images.githubusercontent.com/26926312/43363329-7732fbae-933d-11e8-9b96-5f9954022994.png)
 * before
+어플리케이션을 시작하면 바로 게임이 시작되고, 끝나면 종료 
 
 ![after](https://user-images.githubusercontent.com/26926312/43363332-8b4c190e-933d-11e8-9445-8a9785b79e82.png)
 * after
