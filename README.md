@@ -10,8 +10,7 @@
 * Java Swing
 
 ## ScreenShot
-
-* before
+before
 ![before](https://user-images.githubusercontent.com/26926312/43363329-7732fbae-933d-11e8-9b96-5f9954022994.png)
 
 어플리케이션을 시작하면 바로 게임이 시작되고, 끝나면 종료 
